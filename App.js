@@ -6,9 +6,8 @@ import DrawerNav from './components/DrawerNav'
 
 export default function App() {
   return (
-        //ksjdflksdfkfskdfjlsjdflsfd
+        
             <DrawerNav/>
-            ///skldfshdfkjshdfkjsdkfhskdj
           
   );
 }
